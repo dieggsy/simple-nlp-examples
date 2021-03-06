@@ -1,7 +1,15 @@
 * Simple NLP Examples
 
 This repo provides a couple of simple python NLP tokenization examples using
-spacy, stanza, and NLTK:
+spacy, stanza, and NLTK.
+
+To use, first do:
+
+#+begin_src sh
+pip install --user -U stanza nltk spacy
+
+python -m spacy download es_core_news_sm
+#+end_src
 
 ** [[./poc.py][poc.py]]
 
