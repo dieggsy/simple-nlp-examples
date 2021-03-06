@@ -3,7 +3,7 @@
 This repo provides a couple of simple python NLP tokenization examples using
 spacy, stanza, and NLTK:
 
-** [poc.py](./poc.py)
+** [[./poc.py][poc.py]]
 
 A proof of concept command line program that can download text files, load
 them locally, or use a string as text, and tokenizes the text using spacy,
@@ -12,12 +12,12 @@ and filter the tokens.
 
 Kind of a mess.
 
-[Sample usage at asciinema](https://asciinema.org/a/Sc7jFZJx7DkWKRGnJRbheAEx3)
+[[https://asciinema.org/a/Sc7jFZJx7DkWKRGnJRbheAEx3][Sample usage at asciinema]]
 
-** [token_filtering.py](./token_filtering.py)
+** [[./token_filtering.py][token_filtering.py]]
 
 Simple example of filtering out and printing tokens by type.
 
-** [stanza_to_nltk.py](./stanza_to_nltk.py)
+** [[./stanza_to_nltk.py][stanza_to_nltk.py]]
 
 Converts a texed processed by stanza into an NLTK corpus
