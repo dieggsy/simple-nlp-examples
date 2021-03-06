@@ -1,7 +1,7 @@
 * Simple NLP Examples
 
-This repo provides a couple of simple python NLP examples using spacy, stanza,
-and NLTK:
+This repo provides a couple of simple python NLP tokenization examples using
+spacy, stanza, and NLTK:
 
 ** [poc.py](./poc.py)
 
